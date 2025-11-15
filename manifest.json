@@ -1,0 +1,16 @@
+{
+  "name": "ErrorHound",
+  "version": "v1.0.0",
+  "description": "Advanced verbose error message detection with intelligent scoring and early-exit strategy",
+  "author": "@rohmatariow",
+  "minimum_burp_version": "2023.10",
+  "api_version": "montoya-1.0",
+  "main_class": "src.main.VerboseErrorScanner",
+  "dependencies": [],
+  "permissions": [
+    "proxy",
+    "scanner",
+    "http",
+    "ui"
+  ]
+}
