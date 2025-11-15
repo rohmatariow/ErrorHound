@@ -1,10 +1,11 @@
+![errorhound](/static/errorhound.png)
+
 # 🐕 ErrorHound
 
 **Verbose Error Detection Scanner for Burp Suite**
 
 ErrorHound is a Burp Suite extension that automatically detects and analyzes verbose error messages in web applications. It intelligently hunts down information leaks through stack traces, database errors, framework exceptions, and sensitive data exposure.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Professional-orange)](https://portswigger.net/burp)
 [![Python 2.7](https://img.shields.io/badge/Python-2.7-blue)](https://www.python.org/)
 
