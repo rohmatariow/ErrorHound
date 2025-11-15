@@ -10,19 +10,19 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 
 ---
 
-## 🎯 Features
+## Features
 
 ### **Intelligent Detection Engine**
-- 🔍 **Multi-Layer Detection**: Status codes, regex patterns, behavioral analysis
-- 🎯 **100+ Error Patterns**: Stack traces, database errors, framework exceptions
-- 📊 **Confidence Scoring**: 0-100 scale with false positive filtering
-- 🎨 **Syntax Highlighting**: RED highlights on payloads & errors in Burp Issues
+- **Multi-Layer Detection**: Status codes, regex patterns, behavioral analysis
+- **100+ Error Patterns**: Stack traces, database errors, framework exceptions
+- **Confidence Scoring**: 0-100 scale with false positive filtering
+- **Syntax Highlighting**: RED highlights on payloads & errors in Burp Issues
 
 ### **Smart Testing Methods**
-- ⚡ **HTTP Method Fuzzing**: GET, POST, PUT, DELETE, PATCH, OPTIONS, and custom methods
-- 🔧 **Header Manipulation**: Dynamic header extraction and testing
-- 💥 **Structure Breaking**: JSON/XML/Form syntax corruption
-- 💉 **Parameter Injection**: SQL injection, type confusion, boundary testing
+- **HTTP Method Fuzzing**: GET, POST, PUT, DELETE, PATCH, OPTIONS, and custom methods
+- **Header Manipulation**: Dynamic header extraction and testing
+- **Structure Breaking**: JSON/XML/Form syntax corruption
+- **Parameter Injection**: SQL injection, type confusion, boundary testing
 
 ### **Advanced Capabilities**
 - 🚀 **Early Exit Strategy**: Stops after first finding per category (saves 70-90% requests)
@@ -33,7 +33,7 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### **Prerequisites**
 - Burp Suite Professional (tested on 2023.x and newer)
@@ -112,7 +112,7 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 
 ---
 
-## 🔬 Detection Capabilities
+## Detection Capabilities
 
 ### **Stack Traces**
 - Java (Spring, Tomcat, JBoss)
@@ -149,7 +149,7 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 
 ---
 
-## 🎨 Screenshots
+## Screenshots
 
 ### Main Interface
 *ErrorHound tab showing configuration, results, and logs*
@@ -162,7 +162,7 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 
 ---
 
-## ⚙️ Configuration
+## Configuration
 
 ### **Threshold Settings**
 
@@ -181,7 +181,7 @@ Higher threshold = More strict = High confidence only
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 ```
 ErrorHound/
 ├── Detection Engine
@@ -233,7 +233,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - Burp Suite by PortSwigger
 - Security research community
@@ -247,7 +247,7 @@ This tool is for authorized security testing only. Always obtain proper authoriz
 
 ---
 
-**Happy Hunting! 🐕**
+**Happy Hunting!**
 ```
 
 ---
