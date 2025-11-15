@@ -25,11 +25,11 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 - **Parameter Injection**: SQL injection, type confusion, boundary testing
 
 ### **Advanced Capabilities**
-- 🚀 **Early Exit Strategy**: Stops after first finding per category (saves 70-90% requests)
-- 🎛️ **3 Scan Modes**: Strict, Balanced, Sensitive (adjustable thresholds)
-- 🛑 **Stop Control**: Stop scan anytime with one click
-- 📈 **Real-time Statistics**: Track scans, vulnerabilities, and requests
-- 🎨 **Modern UI**: Clean interface with results table, logs, and configuration
+- **Early Exit Strategy**: Stops after first finding per category (saves 70-90% requests)
+- **3 Scan Modes**: Strict, Balanced, Sensitive (adjustable thresholds)
+- **Stop Control**: Stop scan anytime with one click
+- **Real-time Statistics**: Track scans, vulnerabilities, and requests
+- **Modern UI**: Clean interface with results table, logs, and configuration
 
 ---
 
@@ -93,23 +93,9 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 ### **Understanding Results**
 
 **Severity Levels:**
-- 🔴 **HIGH**: Credentials, API keys, secrets exposed
-- 🟡 **MEDIUM**: Sensitive config, internal paths (3+ indicators)
-- 🟢 **LOW**: General error disclosure (default)
-
-**Results Table Columns:**
-- `#` - Finding number
-- `Host` - Target hostname
-- `Method` - HTTP method tested
-- `URL` - Request path
-- `Status` - HTTP status code
-- `Length` - Response body length
-- `Severity` - Risk level
-- `Category` - Error type detected
-- `Location` - Where payload was injected
-- `Score` - Confidence score (0-100)
-- `Time` - Detection timestamp
-
+- **HIGH**: Credentials, API keys, secrets exposed
+- **MEDIUM**: Sensitive config, internal paths (3+ indicators)
+- **LOW**: General error disclosure (default)
 ---
 
 ## Detection Capabilities
@@ -248,6 +234,3 @@ This tool is for authorized security testing only. Always obtain proper authoriz
 ---
 
 **Happy Hunting!**
-```
-
----
