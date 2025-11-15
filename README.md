@@ -44,7 +44,7 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 1. **Download ErrorHound**
 ```bash
    git clone https://github.com/rohmatariow/ErrorHound.git
-   cd errorhound
+   cd ErrorHound
 ```
 
 2. **Configure Jython in Burp**
