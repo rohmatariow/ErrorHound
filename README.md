@@ -137,7 +137,7 @@ ErrorHound is a Burp Suite extension that automatically detects and analyzes ver
 ---
 
 ## Screenshots
-![demo](src/demo.gif)
+![demo](/static/demo.gif)
 
 ### Main Interface
 *ErrorHound tab showing configuration, results, and logs*
