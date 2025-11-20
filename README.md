@@ -207,7 +207,7 @@ Found a bug? [Open an issue](https://github.com/rohmatariow/ErrorHound/issues)
 
 ## 👤 Author
 
-**@rohmatariow**
+**Rohmat Ario W**
 
 - GitHub: [@rohmatariow](https://github.com/rohmatariow)
 - X: [@rohmatariow](https://x.com/rohmatariow)
